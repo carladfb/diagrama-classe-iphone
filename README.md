@@ -2,8 +2,7 @@
 Desafio da DIO onde é feito um Diagrama de Classe que representa a estrutura das classes e interfaces de um iPhone, que possui as funcionalidades de reprodutor de músicas, um telefonen e um navegador de internet. Esse UML foi criado para a realização de um projeto do Santander Bootcamp 2023 - Fullstack Java+Angular na DIO.me. 
 
 ## UML
-![image](https://github.com/carladfb/diagrama-classe-iphone/assets/107011235/d6144331-e3a8-4d88-a75d-6e50455a79f3)
-
+![image](https://github.com/carladfb/diagrama-classe-iphone/assets/107011235/1ccb47c5-7174-4748-a869-451bcbdd479c)
 
 ## Funcionalidades
 ### Reprodutor Músical 
